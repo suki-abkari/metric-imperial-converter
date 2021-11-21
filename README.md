@@ -1,9 +1,11 @@
 # [Metric-Imperial Converter](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter)
 
-## About 
-This is the first project of the FCC Quality Assurances module in which I implement functions for the conversion of weight, volume and length to metric and imperial units. The project also consists of unit tests. The functionalities are implemented in an API path, which is also evaluated with functional tests.  
+## About
+
+This is the first project of the FCC Quality Assurances module in which I implement functions for the conversion of weight, volume and length to metric and imperial units. The project also consists of unit tests. The functionalities are implemented in an API path, which is also evaluated with functional tests.
 
 ## User stories
+
 - You can GET /api/convert with a single parameter containing an accepted number and unit and have it converted. (Hint: Split the input by looking for the index of the first character which will mark the start of the unit)
 
 - You can convert 'gal' to 'L' and vice versa. (1 gal to 3.78541 L)
@@ -28,4 +30,9 @@ This is the first project of the FCC Quality Assurances module in which I implem
 
 - All 5 functional tests are complete and passing.
 
-Sukaina 
+## Demo
+
+<a href="https://boilerplate-project-metricimpconverter.sukainaabkari.repl.co/">Demo</a>
+
+## Author 
+Sukaina Abkari & FCC

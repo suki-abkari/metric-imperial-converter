@@ -1,7 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,700;1,300&display=swap');
+
+body {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+
 code {
     background-color: whitesmoke;
 }
 
 section, header {
-    margin: 50px;
+    margin: 20px;
+}
+
+.example {
+  padding: 1rem;
+  border-radius: 1rem;
+}
+code, .example {
+  
+  background-color: #1b1b32;
+  color: #ffffff;
 }
