@@ -1,4 +1,8 @@
-# [Metric-Imperial Converter](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter)
+
+
+
+### Link to the project
+### [Metric-Imperial Converter](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter)
 
 ## About
 
@@ -30,9 +34,9 @@ This is the first project of the FCC Quality Assurances module in which I implem
 
 - All 5 functional tests are complete and passing.
 
-## Demo
 
-<a href="https://boilerplate-project-metricimpconverter.sukainaabkari.repl.co/">Demo</a>
+### [ Demo](https://boilerplate-project-metricimpconverter.sukainaabkari.repl.co/)
+
 
 ## Author 
 Sukaina Abkari & FCC

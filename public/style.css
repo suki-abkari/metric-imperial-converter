@@ -6,9 +6,17 @@ body {
   margin: 0;
 padding: 0;
 width: 100%;
+background-color: #1b1b32;
+font-size: 16px;
 }
 
-
+h1 {
+  text-align: center;
+}
+form {
+      display: flex;
+      justify-content: center;
+}
 code {
     background-color: whitesmoke;
 }
@@ -25,4 +33,45 @@ code, .example {
   
   background-color: #1b1b32;
   color: #ffffff;
+}
+
+.field {
+  width: 360px;
+		background: #fff;
+		font: inherit;
+		box-shadow: 0 6px 10px 0 rgba(0, 0, 0 , .1);
+		border: 0;
+		outline: 0;
+    padding: 10px 15px;
+}
+.btn {
+  display: inline-block;
+	background: transparent;
+	font: inherit;
+	border: 0;
+	outline: 0;
+	transition: all 200ms ease-in;
+	cursor: pointer;
+ background:#4d63ee;
+		color: #ffffff;
+		box-shadow: 0 0 10px 2px rgba(0, 0, 0, .1);
+		border-radius: 2px;
+		padding: 12px 36px;
+}
+
+.btn:active {
+  background:#7f8ff4;
+
+}
+.btn:hover {
+  
+  background: #7f8ff4;
+
+}
+
+.txt-center {
+  text-align: center;
+}
+.txt-white {
+  color: #ffffff
 }
