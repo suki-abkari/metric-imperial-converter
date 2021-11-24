@@ -38,5 +38,6 @@ This is the first project of the FCC Quality Assurances module in which I implem
 ### [ Demo](https://boilerplate-project-metricimpconverter.sukainaabkari.repl.co/)
 
 
-## Author 
+## <a href="https://www.freecodecamp.org/suki-220" target="_blank"><img src="https://img.icons8.com/external-sbts2018-lineal-color-sbts2018/30/000000/external-developer-women-profession-sbts2018-lineal-color-sbts2018.png"/></a> Authors
+
 Sukaina Abkari & FCC
