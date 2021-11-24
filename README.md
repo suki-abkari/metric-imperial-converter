@@ -49,11 +49,11 @@ This is the first project of the FCC Quality Assurances module in which I implem
   16. Km to Mi <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
 
 - All 5 functional tests are complete and passing.
-  1. Convert a valid input such as 10L: GET request to /api/convert.
-  2. Convert an invalid input such as 32g: GET request to /api/convert.
-  3. Convert an invalid number such as 3/7.2/4kg: GET request to /api/convert.
-  4. Convert an invalid number AND unit such as 3/7.2/4kilomegagram: GET request to /api/convert.
-  5. Convert with no number such as kg: GET request to /api/convert.
+  1. Convert a valid input such as 10L: GET request to /api/convert. <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+  2. Convert an invalid input such as 32g: GET request to /api/convert. <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+  3. Convert an invalid number such as 3/7.2/4kg: GET request to /api/convert. <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+  4. Convert an invalid number AND unit such as 3/7.2/4kilomegagram: GET request to /api/convert. <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+  5. Convert with no number such as kg: GET request to /api/convert. <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
 
 ### [ Demo](https://boilerplate-project-metricimpconverter.sukainaabkari.repl.co/)
 
