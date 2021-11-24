@@ -31,22 +31,22 @@ This is the first project of the FCC Quality Assurances module in which I implem
 - Your return will consist of the initNum, initUnit, returnNum, returnUnit, and string spelling out units in the format '{initNum} {initUnitString} converts to {returnNum} {returnUnitString}' with the result rounded to 5 decimals.
 
 - All 16 unit tests are complete and passing.
-  1. Whole number input
-  2. Rread a decimal number input
-  3. Read a fractional input
-  4. Read a fractional input with a decimal
-  5. Return an error on a double-fraction (i.e. 3/2/3)
-  6. Default to a numerical input of 1 when no numerical
-  7. For each valid unit input: getUnit(input)
-  8. For Each Valid Unit Inputs: getReturnUnit(initUnit)
-  9. Unknown Unit Input
-  10. For Each Valid Unit Inputs: spellOutUnit(unit)
-  11. Gal to L
-  12. L to Gal
-  13. LBS to KG
-  14. KG LBS
-  15. Mi to Km
-  16. Km to Mi
+  1. Whole number input <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+  2. Rread a decimal number input <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+  3. Read a fractional input <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+  4. Read a fractional input with a decimal <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+  5. Return an error on a double-fraction (i.e. 3/2/3) <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+  6. Default to a numerical input of 1 when no numerical <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+  7. For each valid unit input: getUnit(input) <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+  8. For Each Valid Unit Inputs: getReturnUnit(initUnit) <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+  9. Unknown Unit Input <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+  10. For Each Valid Unit Inputs: spellOutUnit(unit) <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+  11. Gal to L <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+  12. L to Gal <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+  13. LBS to KG <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+  14. KG LBS <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+  15. Mi to Km <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
+  16. Km to Mi <img src="https://img.icons8.com/emoji/15/000000/check-mark-emoji.png"/>
 
 - All 5 functional tests are complete and passing.
   1. Convert a valid input such as 10L: GET request to /api/convert.
